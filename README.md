@@ -27,6 +27,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhjot-84&show_icons=true&locale=en" alt="prabhjot-84" width="44.5%" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhjot-84&" alt="prabhjot-84" width="40%" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhjot-84&" alt="prabhjot-84" /></p>
-
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhjot-84&row=2&column=3" alt="prabhjot-84" /></a> </p>
