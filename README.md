@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Prabhjot Singh</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="coding" width="300" src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" >
+<img align="right" alt="coding" width="300" height="275" src="https://gifdb.com/images/high/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhjot-84&label=Profile%20views&color=0e75b6&style=flat" alt="prabhjot-84" /> </p>
 
@@ -25,8 +25,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhjot-84&show_icons=true&locale=en&layout=compact" alt="prabhjot-84" width="40%"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhjot-84&show_icons=true&locale=en" alt="prabhjot-84" width="44.5%" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhjot-84&show_icons=true&locale=en" alt="prabhjot-84" width="44.5%" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhjot-84&" alt="prabhjot-84" width="40%" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhjot-84&" alt="prabhjot-84" width="40%" /></p>
 
-<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhjot-84&row=2&column=3" alt="prabhjot-84" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prabhjot-84&row=1&column=3" alt="prabhjot-84" width="44.5%" /></a> </p>
