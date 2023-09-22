@@ -3,7 +3,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Prabhjot Singh</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="coding" width="260" height="260" src="https://files.catbox.moe/j9v6xm.gif" >
+<img align="right" alt="coding" width="200" height="200" src="https://files.catbox.moe/j9v6xm.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhjot-84&label=Profile%20views&color=0e75b6&style=flat" alt="prabhjot-84" /> </p>
 
