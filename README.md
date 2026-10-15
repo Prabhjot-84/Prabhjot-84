@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhjot-84&label=Profile%20views&color=0e75b6&style=flat" alt="prabhjot-84" /> </p>
 
-- 🔭 I’m currently working on **Blog App**
+- 🔭 I’m currently working as a **Backend Developer**
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m currently learning **Backend and System Design**
 
-- 💬 Ask me about **Full Stack Development, Java**
+- 💬 Ask me about **Golang, Postgress**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
